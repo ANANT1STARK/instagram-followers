@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+h1 img{
+    height: 200px;
+    width: 300px;
+    align-items: center;
+    margin-left: 35px;
+}
+h3{
+    color:aquamarine ;
+    text-align: center;
+}
+p
+{
+    color: red;
+    text-align: center;
+}
